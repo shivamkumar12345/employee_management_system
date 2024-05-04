@@ -6,7 +6,7 @@ PREREQISITE
 
 
 # screenshot of my project
-![screenshot]("screenshot.png")
+![screenshot]("./screenshot.png")
 
 
 
